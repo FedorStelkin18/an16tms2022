@@ -7,8 +7,6 @@ public class Task3 {
                 count = count + 1;
             }
         }
-
-        System.out.println("Количесо положительных чисел" + count);
-        System.out.println("Количесо положительных чисел" + count);
+        System.out.println("Количесво положительных чисел" + count);
     }
 }
