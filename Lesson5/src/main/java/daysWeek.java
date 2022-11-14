@@ -18,10 +18,10 @@ public class daysWeek {
                 System.out.println("Friday");
                 break;
             case 6:
-                System.out.println("day off");
+                System.out.println("Day off");
                 break;
             case 7:
-                System.out.println("day off");
+                System.out.println("Day off");
                 break;
 
         }
