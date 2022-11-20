@@ -15,7 +15,7 @@ public class PetrovProgram {
         Random rnd = new Random();
         int a = (int) (Math.random() * 28801);
         int b = a / 3600;
-        System.out.println("Осталось " + a + " секунд");
+        System.out.println("Осталось  " + a + " секунд");
         switch (b) {
             case 0:
                 System.out.println("Осталось меньше часа");

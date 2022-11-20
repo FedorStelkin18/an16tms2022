@@ -6,7 +6,7 @@ public class ChetChisla {
         чётным или нет.
         Ввод числа осуществлять с помощью класса Scanner.
         Если пользователь введёт не целое число, то сообщать ему об ошибке.*/
-        System.out.print(" Введите число = ");
+        System.out.print(" Введите число  = ");
         Scanner scan = new Scanner(System.in);
         if (scan.hasNextInt()) {
             int value = scan.nextInt();
